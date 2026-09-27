@@ -13,7 +13,7 @@ body {
 }
 
 .app {
-    height: 100vh;
+    height: 100dvh;
     max-width: 900px;
     margin: auto;
     display: flex;
